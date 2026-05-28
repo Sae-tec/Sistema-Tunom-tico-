@@ -1,5 +1,9 @@
 # Sistema de Gestión de Turnos Digitales (Tunomático)
 
+Integrantes: Benjamin Vivero
+             Benjamin Celis
+             Ignacio Quiroz
+
 ## Descripción General
 
 El presente proyecto corresponde al modelado arquitectónico de un Sistema de Gestión de Turnos Digitales denominado “Tunomático”, desarrollado utilizando UML y aplicando principios de diseño orientado a objetos junto con patrones de diseño reconocidos.
