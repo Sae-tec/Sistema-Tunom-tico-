@@ -27,6 +27,8 @@ Diseñar un sistema digital de gestión de turnos que permita administrar de for
 
 # Diagrama de Casos de Uso UML
 
+![](https://github.com/Sae-tec/Sistema-Tunom-tico-/blob/main/fotos/caso%20de%20uso.png)
+
 ## Descripción
 
 El diagrama de casos de uso representa las funcionalidades principales del sistema y la interacción de los actores con dichas funcionalidades.
@@ -73,6 +75,8 @@ Esto ocurre porque el envío de recordatorios es una funcionalidad opcional que 
 ---
 
 # Diagrama de Clases UML
+
+![](https://github.com/Sae-tec/Sistema-Tunom-tico-/blob/main/fotos/clase.png)
 
 ## Descripción
 
@@ -152,6 +156,8 @@ Permite adaptar servicios externos de mensajería al sistema sin modificar la es
 ---
 
 # Diagrama de Implementación UML
+
+![](https://github.com/Sae-tec/Sistema-Tunom-tico-/blob/main/fotos/implementacion.png)
 
 ## Descripción
 
