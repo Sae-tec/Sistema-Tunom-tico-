@@ -1,8 +1,6 @@
 # Sistema de Gestión de Turnos Digitales (Tunomático)
 
-Integrantes: Benjamin Vivero
-             Benjamin Celis
-             Ignacio Quiroz
+Integrantes: Benjamin Vivero, Benjamin Celis e Ignacio Quiroz
 
 ## Descripción General
 
